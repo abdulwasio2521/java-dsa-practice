@@ -9,3 +9,4 @@ Multi-dimensional Arrays: Working with 2D matrices.
 
 List Of Problems (Solved):
 ~ Problem 01 --- Sum and Average: Calculate total sum and arithmetic mean of an integer array.
+~ Problem 02 --- Find Maximum and Minimum: Identify the highest and lowest numerical values in an array.
