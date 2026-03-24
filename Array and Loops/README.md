@@ -8,5 +8,6 @@ Sorting: Bubble, Selection, and Insertion Sort.
 Multi-dimensional Arrays: Working with 2D matrices.
 
 List Of Problems (Solved):
-~ Problem 01 --- Sum and Average: Calculate total sum and arithmetic mean of an integer array.
-~ Problem 02 --- Find Maximum and Minimum: Identify the highest and lowest numerical values in an array.
+~ Problem 0001 --- Sum and Average: Calculate total sum and arithmetic mean of an integer array.
+~ Problem 0002 --- Find Maximum and Minimum: Identify the highest and lowest numerical values in an array.
+~ Problem 0003 --- Reverse the Array: Change the order of elements so the last becomes the first, without using second array!
