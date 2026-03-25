@@ -12,5 +12,5 @@ List Of Problems (Solved):
 ~ Problem 0002 --- Find Maximum and Minimum: Identify the highest and lowest numerical values in an array.
 ~ Problem 0003 --- Reverse the Array: Change the order of elements so the last becomes the first, without using second array!
 ~ Problem 0004 --- Count Even and Odd: Determine the quantity of even integers versus odd integers in the set.
-~ Problem 0005 --- 
+~ Problem 0005 --- Linear Search: Return the index of a specific target value, or -1 if it doesn't exist.
 
