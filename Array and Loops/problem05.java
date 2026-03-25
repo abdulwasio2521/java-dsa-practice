@@ -1,3 +1,4 @@
+//Linear Search: Return the index of a specific target value, or -1 if it doesn't exist.
 public class problem05 {
     public static void main(String[] args) {
         int[] arr = {1, 4, 7, 456, 489, 298, 421, 23, 15};
