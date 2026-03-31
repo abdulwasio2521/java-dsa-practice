@@ -5,7 +5,7 @@ public class problem01 {
         double arithmeticMean = 0;
         int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
-        for(int i=0; i<arr.length; i++) {
+        for(int i=0; i<10; i++) {
             sum = sum + arr[i];
         }
 
